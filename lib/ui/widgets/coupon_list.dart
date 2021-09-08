@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:tiendita_app/models/coupon.dart';
 import 'package:tiendita_app/ui/widgets/coupon_list_item.dart';
 
-class CouponsList extends StatelessWidget {
-  const CouponsList({
+class CouponList extends StatelessWidget {
+  const CouponList({
     Key? key,
   }) : super(key: key);
 
