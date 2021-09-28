@@ -12,12 +12,12 @@ class TopAppBar extends StatelessWidget {
       child: Row(
         children: [
           CircleAvatar(
-            child: const Text('C'),
+            child: const Text('E'),
             backgroundColor: Colors.grey[850],
           ),
           const SizedBox(width: 10),
           const Text(
-            'Hi, Customer',
+            'Hi, Emmanuel',
             style: TextStyle(
               fontSize: 20,
               fontWeight: FontWeight.w500,
